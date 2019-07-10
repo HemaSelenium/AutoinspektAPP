@@ -22,19 +22,12 @@
       <scope>test</scope>
     </dependency>
   
-  
-  
-  
   <!-- https://mvnrepository.com/artifact/io.appium/java-client -->
 <dependency>
     <groupId>io.appium</groupId>
     <artifactId>java-client</artifactId>
     <version>7.0.0</version>
 </dependency>
-
-
-
-
 
 <dependency>
 <groupId>org.seleniumhq.selenium</groupId>
@@ -57,6 +50,8 @@
 </exclusions>
 </dependency>
 <dependency>
+
+
 <groupId>org.seleniumhq.selenium</groupId>
 <artifactId>selenium-support</artifactId>
 <version>3.141.59</version>

@@ -146,6 +146,8 @@ catch(NoSuchElementException e) {
 		MobileElement el24 = (MobileElement) driver
 				.findElementById("co.in.mfcwl.valuation.autoinspekt.autoinspekt:id/btNexti2w");
 		el24.click();
+		
+		
 	}
 
 }
